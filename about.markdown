@@ -3,16 +3,21 @@ layout: page
 title: About
 permalink: /about/
 ---
+# お前は誰
+B4kedBr3ad(べいくどぶれっど)です
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# 何をしている人
+Splatoon3とか適当にウンコード作ってます
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# 年代は何
+妖怪ウォッチガチってた年代
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# その他
+AutoBlockツールを使ってブロック数が100万人になりました
 
+# 持ってるアカウント全部吐けよ吐けよ
+[Twitter](https://twitter.com/intent/user?user_id=1548844845514768385)
 
-[jekyll-organization]: https://github.com/jekyll
+[GitHub](https://GitHub.com/B4kedBr3ad)
+
+[Stat.ink](https://stat.ink/@B4kedBr3ad)
